@@ -1,0 +1,8 @@
+paddlepaddle
+paddlenlp
+onnx
+onnxruntime
+tabulate
+importlib_metadata
+nltk
+visualdl
